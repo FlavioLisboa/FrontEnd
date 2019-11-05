@@ -1,0 +1,31 @@
+body {
+     color: #CC3299;
+     font-size: 12pt;
+     line-height: 24pt; 
+     text-align: right; 
+     font-family: arial, helvetica, sans-serif
+    }
+
+head {
+    color: #FF0000;
+    font-size: 12pt;
+    line-height: 24pt; 
+    text-align: right; 
+    font-family: arial, helvetica, sans-serif
+    }
+
+h2   {
+     color: 0000ff; 
+     font-size: 12pt;
+     line-height: 24pt; 
+     text-align: right; 
+     font-family: arial, helvetica, sans-serif
+     }
+     
+h3  {
+     color: 0000ff; 
+     font-size: 12pt;
+     line-height: 24pt; 
+     text-align: right; 
+     font-family: arial, helvetica, sans-serif
+    }

@@ -1,0 +1,19 @@
+<html>
+   <head>
+    <title>olá.. aula 2 </title>
+    
+    <map name="brasil">
+    <area shape="circle" target="_blank"
+    coords="434,318,118"
+    href="http://www.google.com.br">
+   </map>
+  </head>
+
+ 
+  <body>
+    <p>
+     <img src="teste_imagens/brasil.jpeg"
+      usemap="#brasil">
+    </p>
+   </body>
+ </html>

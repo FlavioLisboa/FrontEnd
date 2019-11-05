@@ -1,0 +1,51 @@
+<?php
+
+ $Leituradiária = array(
+    0  => "Interação Humano Computador." ,
+           
+    1  => "Sistemas de Computação e Informação.",
+    
+    2  => "Segurança da Informação.",
+    
+    3  => "Ética, Política e Sociedade.",
+    
+    4  => "Seminário I",
+    
+    5  => "Trabalho 1º semestre - em grupo.",
+    
+    6  => "Foruns.",
+    
+    ); 
+    
+        $escolhida = rand (0, 6);
+        
+    switch ($escolhida) {
+        case 0:
+            echo $Leituradiária[0];
+            break; 
+        case 1:
+            echo $Leituradiária[1];
+            break;
+        case 2:
+            echo $Leituradiária[2];
+            break;
+        case 3:
+            echo $Leituradiária[3];
+            break;
+        case 4:
+            echo $Leituradiária[4];
+            break;
+        case 5:
+            echo $Leituradiária[5];
+            break;    
+        case 6:
+            echo $Leituradiária[6];
+            break;
+        default:
+            echo "Vamos estudar!!";
+            break;
+    }
+    
+    ?>
+            
+    
